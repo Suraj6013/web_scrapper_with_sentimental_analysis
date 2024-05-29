@@ -112,3 +112,16 @@ output_txt_files/51382.8.txt
 output_txt_files/51844.6.txt
 output_txt_files/52306.4.txt
 output_txt_files/52768.2.txt
+<<<<<<< HEAD
+=======
+StopWords/StopWords_Auditor.txt
+StopWords/StopWords_Currencies.txt
+StopWords/StopWords_DatesandNumbers.txt
+StopWords/StopWords_Generic.txt
+StopWords/StopWords_GenericLong.txt
+StopWords/StopWords_Geographic.txt
+StopWords/StopWords_Names.txt
+MasterDictionary/negative-words.txt
+MasterDictionary/positive-words.txt
+.gitattributes
+>>>>>>> main
