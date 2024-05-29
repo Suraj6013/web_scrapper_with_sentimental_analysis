@@ -1,4 +1,3 @@
-content = """
 # Web Scraper
 This is a simple web scraper written in Python. It reads a list of URLs from an Excel file, makes HTTP requests to each URL, extracts the article title and text from each page, and saves the extracted text to a text file.
 
@@ -14,7 +13,7 @@ This is a simple web scraper written in Python. It reads a list of URLs from an 
 4. Run `scrapper.py`.
 
 # Error Handling
-"""
+If an error occurs while extracting data from a URL, the error message will be printed to the console, and the script will continue with the next URL.
 
-with open('ReadMe.md', 'w') as f:
-    f.write(content)
+# Output
+The extracted text from each URL will be saved to a separate text file in the output folder. The name of the text file will be the URL_ID from the Excel file.
